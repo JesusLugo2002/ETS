@@ -1,8 +1,7 @@
-# tareas_markdown
+# Metodologías del desarrollo
 
-![gif](https://www.gifmaniacos.es/wp-content/uploads/2019/04/peces-gif-gifmaniacos.es-15.gif)
-
-## Índice
-1. [Tarea de markdown libre: Análisis emocional de Celeste](markdown_libre/README.md)
-2. [Tarea 'Metodologías del desarrollo'](metodologias_del_desarrollo/README.md)
-3. [Trabajo de investigación de SCRUM](investigacion_SCRUM/README.md)
+El informe deberá estar formateado en un achivo.md, y deberá estructurar las siguientes cuestiones:
+- Fases de desarrollo del método tradicional (características y funciones)
+- Fases de desarrollo del método ágil (características y funciones)
+- ¿Cuál crees que es el método más adecuado para realizar un control de ventas?
+- ¿Cuál es el método más caro de implementar? Justifica la respuesta
