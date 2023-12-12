@@ -30,3 +30,4 @@ Tras haber leido sobre las diferencias entre las metodologías tradicionales y l
 Así que, un mejor flujo de trabajo dentro del departamento de ventas, más las relaciones con tus clientes potenciales y tus clientes actuales, es la base del éxito.
 
 ## ¿Cuál es el método más caro de implementar?
+Como se había indicado anteriormente, más que otorgar herramientas, las metodologías de desarrollo aportan mayormente filosofías y técnicas para trabajar en conjunto con el equipo, lo que ayudaría a realizar una mejor organización y gestión de recursos, reduciendo así costes. Pero si tuviese que indicar algún método en específico que supondría gastos, sería el **método prototipado**, pues se basa en la creación de un prototipo del proyecto sobre el que se iteran multiples cambios a futuros que, si bien puede funcionar, podría verse perjudicado, habiendo la posibilidad de que el trabajo se pierda y, con ello, el tiempo invertido.
