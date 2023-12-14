@@ -19,6 +19,10 @@ Se realiza un estudio profundo de la necesidad tecnológica que tiene el negocio
 <img src='https://th.bing.com/th/id/R.49ec5d75a8969f250217f5e8cd28ab6e?rik=FNylhIpSPPXAWQ&pid=ImgRaw&r=0' width=50% height=50%/>
 </div>
 
+#### Funcionales
+
+#### No funcionales
+
 ### Diseño
 
 Se exploran las posibles alternativas, algo que requiere de mucha atención. Se consideran todos los aspectos de la implementación tecnológica, como el hardware, el lenguaje y la red. Todo esto sirve para presentar algunos modelos de proceso, guiones gráficos, prototipos e, incluso, una simulación del diseño.
@@ -42,6 +46,10 @@ Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que e
 <div align=center>
 <img src='https://image.freepik.com/vector-gratis/proceso-desarrollo-aplicaciones-pruebas-depuracion-software-antivirus-captura-errores_4968-747.jpg' width=50% height=50%/>
 </div>
+
+#### Unitarias
+
+#### De integración
 
 ### Explotación
 
