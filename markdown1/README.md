@@ -75,4 +75,8 @@ Se debe dejar registro documentado de todo el proceso y cada una de las etapas d
 <img src='https://th.bing.com/th/id/R.f9191786349978f7f8f082806f5db950?rik=NNwcIvChcqwY3w&pid=ImgRaw&r=0' width=50% height=50%/>
 </div>
 
+## Video-resumen
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yQxwbZsL14Y?si=bL_fdnYKWohgtg2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
