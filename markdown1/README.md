@@ -16,9 +16,7 @@ Ante un nuevo proyecto de software, lo primero que se debe hacer es recopilar la
 Se realiza un estudio profundo de la necesidad tecnológica que tiene el negocio. Especifica las características operacionales que tendrá el software a desarrollar. Tiene en cuenta las diferentes áreas de trabajo: reconocimiento del problema, evaluación, modelado, especificación y revisión.
 
 <div align=center>
-
-![img](https://th.bing.com/th/id/R.49ec5d75a8969f250217f5e8cd28ab6e?rik=FNylhIpSPPXAWQ&pid=ImgRaw&r=0)
-
+<img src='https://th.bing.com/th/id/R.49ec5d75a8969f250217f5e8cd28ab6e?rik=FNylhIpSPPXAWQ&pid=ImgRaw&r=0' width=50% height=50%/>
 </div>
 
 ### Diseño
@@ -26,9 +24,7 @@ Se realiza un estudio profundo de la necesidad tecnológica que tiene el negocio
 Se exploran las posibles alternativas, algo que requiere de mucha atención. Se consideran todos los aspectos de la implementación tecnológica, como el hardware, el lenguaje y la red. Todo esto sirve para presentar algunos modelos de proceso, guiones gráficos, prototipos e, incluso, una simulación del diseño.
 
 <div align=center>
-
-![img](https://th.bing.com/th/id/R.8569b60c0ee16e15e101300137498da2?rik=Xe7h0WrTYdPNMw&pid=ImgRaw&r=0)
-
+<img src='https://th.bing.com/th/id/R.8569b60c0ee16e15e101300137498da2?rik=Xe7h0WrTYdPNMw&pid=ImgRaw&r=0' width=50% height=50%/>
 </div>
 
 ### Codificación y compilación
@@ -36,19 +32,23 @@ Se exploran las posibles alternativas, algo que requiere de mucha atención. Se 
 Es la etapa medular del desarrollo, ya que implica crear el código con el lenguaje de programación indicado para producir el software. Para ello, se deben identificar correctamente las variables y su alcance, crear algoritmos y estructuras de datos adecuadas, garantizar una lógica de aplicación sencilla y documentar el código.
 
 <div align=center>
-
-![img](https://th.bing.com/th/id/OIP.R-hMkPGw3eCRG68e_MletwAAAA?rs=1&pid=ImgDetMain)
-
+<img src='https://th.bing.com/th/id/OIP.R-hMkPGw3eCRG68e_MletwAAAA?rs=1&pid=ImgDetMain' width=50% height=50%/>
 </div>
 
 ### Pruebas
 
+Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que el programa ejecute las tareas especificadas. Además, sirve para detectar fallas y analizar el rendimiento del software. Aunque el desarrollador hace sus propias pruebas, se recomienda que también sean realizadas por alguien más.
+
 ### Explotación
+
+Se trata de habilitar el software para que el usuario lo utilice y así resolver cualquier problema o duda que se le presente. Previamente, se debe planificar el entorno considerando las dependencias entre los diferentes elementos que conforman el programa. Para ello, se analiza que no existan problemas de compatibilidad.
 
 ### Mantenimiento
 
+Aunque se crea que al poner en práctica el software se acaba el trabajo, esto no es así. Y es que es esencial mantener, optimizar y mejorar el programa para eliminar los errores detectados, adaptar nuevas necesidades o añadir nuevas funcionalidades. Esto significa que se requiere hacer actualizaciones frecuentes.
+
 ### Documentación
 
-#### Tipos de documentos
+Se debe dejar registro documentado de todo el proceso y cada una de las etapas del proyecto, considerando las modelaciones, los diagramas, las pruebas, el objetivo de las eventuales correcciones, la usabilidad y las posibles adecuaciones al sistema. También, deben realizarse el manual de usuario y el manual técnico.
 
 </div>
