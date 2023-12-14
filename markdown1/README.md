@@ -39,16 +39,32 @@ Es la etapa medular del desarrollo, ya que implica crear el código con el lengu
 
 Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que el programa ejecute las tareas especificadas. Además, sirve para detectar fallas y analizar el rendimiento del software. Aunque el desarrollador hace sus propias pruebas, se recomienda que también sean realizadas por alguien más.
 
+<div align=center>
+<img src='https://image.freepik.com/vector-gratis/proceso-desarrollo-aplicaciones-pruebas-depuracion-software-antivirus-captura-errores_4968-747.jpg' width=50% height=50%/>
+</div>
+
 ### Explotación
 
 Se trata de habilitar el software para que el usuario lo utilice y así resolver cualquier problema o duda que se le presente. Previamente, se debe planificar el entorno considerando las dependencias entre los diferentes elementos que conforman el programa. Para ello, se analiza que no existan problemas de compatibilidad.
+
+<div align=center>
+<img src='https://th.bing.com/th/id/R.369adcdb4ec3fe6761abfdcf6e64437e?rik=p4s%2b8GlhaH11zg&pid=ImgRaw&r=0' width=50% height=50%/>
+</div>
 
 ### Mantenimiento
 
 Aunque se crea que al poner en práctica el software se acaba el trabajo, esto no es así. Y es que es esencial mantener, optimizar y mejorar el programa para eliminar los errores detectados, adaptar nuevas necesidades o añadir nuevas funcionalidades. Esto significa que se requiere hacer actualizaciones frecuentes.
 
+<div align=center>
+<img src='https://www.rade.ir/wp-content/uploads/2021/12/Sandogh-Ahrimi.jpg' width=50% height=50%/>
+</div>
+
 ### Documentación
 
 Se debe dejar registro documentado de todo el proceso y cada una de las etapas del proyecto, considerando las modelaciones, los diagramas, las pruebas, el objetivo de las eventuales correcciones, la usabilidad y las posibles adecuaciones al sistema. También, deben realizarse el manual de usuario y el manual técnico.
+
+<div align=center>
+<img src='https://th.bing.com/th/id/R.f9191786349978f7f8f082806f5db950?rik=NNwcIvChcqwY3w&pid=ImgRaw&r=0' width=50% height=50%/>
+</div>
 
 </div>
