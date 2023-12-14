@@ -21,7 +21,11 @@ Se realiza un estudio profundo de la necesidad tecnológica que tiene el negocio
 
 #### Funcionales
 
+Los requisitos funcionales son declaraciones de los servicios que prestará el sistema, en la forma en que reaccionará a determinados insumos. Cuando hablamos de las entradas, no necesariamente hablamos sólo de las entradas de los usuarios. Pueden ser interacciones con otros sistemas, respuestas automáticas, procesos predefinidos. En algunos casos, los requisitos funcionales de los sistemas también establecen explícitamente lo que el sistema no debe hacer.
+
 #### No funcionales
+
+Se trata de requisitos que no se refieren directamente a las funciones específicas suministradas por el sistema (características de usuario), sino a las propiedades del sistema: rendimiento, seguridad, disponibilidad. En palabras más sencillas, no hablan de “lo que” hace el sistema, sino de “cómo” lo hace.
 
 ### Diseño
 
@@ -49,7 +53,11 @@ Esta fase es crucial porque, antes de llegar al usuario, hay que comprobar que e
 
 #### Unitarias
 
+Las pruebas unitarias de software, conocidas también como unit testing o test unitarios, pueden definirse como un mecanismo de comprobación del funcionamiento de las unidades de menor tamaño de un programa o aplicación en específico.
+
 #### De integración
+
+Las pruebas de integración o pruebas integradas se definen como un mecanismo de testeo de software, donde se realiza un análisis de los procesos relacionados con el ensamblaje o unión de los componentes, sus comportamientos con múltiples partes del sistema (ya sea de archivos operativos) o de hardware, entre otras.
 
 ### Explotación
 
@@ -77,6 +85,8 @@ Se debe dejar registro documentado de todo el proceso y cada una de las etapas d
 
 ## Video-resumen
 
+A continuación, un video que servirá a modo de resumen sobre las etapas del desarrollo de software:
 
+[![Alt text](https://img.youtube.com/vi/bVMQQNjygoA/0.jpg)](https://www.youtube.com/watch?v=bVMQQNjygoA)
 
 </div>
