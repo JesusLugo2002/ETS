@@ -1,8 +1,3 @@
-# tareas_markdown
+# ETS
 
 ![gif](https://www.gifmaniacos.es/wp-content/uploads/2019/04/peces-gif-gifmaniacos.es-15.gif)
-
-## Índice
-1. [Tarea de markdown libre: Análisis emocional de Celeste](markdown_libre/README.md)
-2. [Tarea 'Metodologías del desarrollo'](markdown3/README.md)
-3. [Trabajo de investigación de SCRUM](investigacion_SCRUM/README.md)
