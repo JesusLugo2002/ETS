@@ -22,3 +22,5 @@ Sin embargo, el modelo cascada en algunas de sus variantes es uno de los actualm
 
 ## Modelos evolutivos
 
+El desarrollo evolutivo consta del desarrollo de una versión inicial que luego de exponerse se va refinando de acuerdo de los comentarios o nuevos requerimientos por parte del cliente o del usuario final. Las fases de especificación, desarrollo y validación se entrelazan en vez de separarse.
+
