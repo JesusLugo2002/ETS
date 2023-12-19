@@ -26,7 +26,7 @@ Sin embargo, el modelo cascada en algunas de sus variantes es uno de los actualm
 El desarrollo evolutivo consta del desarrollo de una versión inicial que luego de exponerse se va refinando de acuerdo de los comentarios o nuevos requerimientos por parte del cliente o del usuario final. Las fases de especificación, desarrollo y validación se entrelazan en vez de separarse.
 
 <div align=center>
-<img src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/11476188/EVOLUTIVO.jpg)' width=70%/>
+<img src='https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/11476188/EVOLUTIVO.jpg' width=50%/>
 </div> 
 
 ### Modelo incremental interactivo
@@ -35,7 +35,7 @@ El método incremental es un ciclo de vida que ocurre en el desarrollo de softwa
 El modelo de desarrollo incremental permite ir probando las funciones de un software de forma interactiva. Se obtienen prototipos por cada incremento, que se va perfeccionando.
 
 <div align=center>
-<img src='https://4.bp.blogspot.com/-FZdM824ILRs/UE9bFzLOW6I/AAAAAAAAADU/OG_K7baAh94/s1600/ModeloIncremental_grafica.jpg' width=70%/>
+<img src='https://4.bp.blogspot.com/-FZdM824ILRs/UE9bFzLOW6I/AAAAAAAAADU/OG_K7baAh94/s1600/ModeloIncremental_grafica.jpg' width=50%/>
 </div> 
 
 ### Modelo en espiral
@@ -43,7 +43,7 @@ El modelo de desarrollo incremental permite ir probando las funciones de un soft
 En el modelo en espiral no se parte de la base de que las tareas del desarrollo del software se organizan de forma lineal, sino que se entienden como tareas iterativas. Las fases no se realizan de forma única paso a paso, sino varias veces en forma de espiral. Mediante esta repetición cíclica, el proyecto se va acercando al objetivo de forma relativamente lenta, pero se minimiza de forma decisiva el riesgo de fracaso del proceso de desarrollo gracias a los controles regulares.
 
 <div align=center>
-<img src='https://th.bing.com/th/id/R.ec996077b5f17fad7a1b6c69c868bf0c?rik=DmXd27O45tQbhQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f_S5W0bf4uECM%2fTL5uOoqW4MI%2fAAAAAAAAABI%2fwk8pbHQALHU%2fw1200-h630-p-k-no-nu%2fespiral2.png&ehk=wOT4NrlsXCbNCL87t33%2f3ncTflfXQbnbzDfMoUaiKmo%3d&risl=&pid=ImgRaw&r=0' width=70%/>
+<img src='https://th.bing.com/th/id/R.ec996077b5f17fad7a1b6c69c868bf0c?rik=DmXd27O45tQbhQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f_S5W0bf4uECM%2fTL5uOoqW4MI%2fAAAAAAAAABI%2fwk8pbHQALHU%2fw1200-h630-p-k-no-nu%2fespiral2.png&ehk=wOT4NrlsXCbNCL87t33%2f3ncTflfXQbnbzDfMoUaiKmo%3d&risl=&pid=ImgRaw&r=0' width=50%/>
 </div> 
 
 ### Modelos ágiles
@@ -51,7 +51,7 @@ En el modelo en espiral no se parte de la base de que las tareas del desarrollo 
 Las metodologías ágiles son un conjunto de principios y prácticas utilizados en la gestión de proyectos, especialmente en el desarrollo de software. Estas metodologías se basan en la adaptabilidad, flexibilidad y rapidez, y se enfocan en la colaboración y comunicación entre los miembros del equipo y los clientes. El objetivo final de las metodologías ágiles es ser capaz de responder rápidamente a las necesidades del mercado, que cambian especialmente rápido en IT.
 
 <div align=center>
-<img src='https://th.bing.com/th/id/OIP.S4fijvtVzxbhFitHp1Ka1QHaHJ?rs=1&pid=ImgDetMain' width=70%/>
+<img src='https://th.bing.com/th/id/OIP.S4fijvtVzxbhFitHp1Ka1QHaHJ?rs=1&pid=ImgDetMain' width=50%/>
 </div> 
 
 </div>
