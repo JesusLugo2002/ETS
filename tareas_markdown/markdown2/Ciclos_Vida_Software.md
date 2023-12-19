@@ -54,5 +54,11 @@ Las metodologías ágiles son un conjunto de principios y prácticas utilizados 
 <img src='https://th.bing.com/th/id/OIP.S4fijvtVzxbhFitHp1Ka1QHaHJ?rs=1&pid=ImgDetMain' width=50%/>
 </div> 
 
+## Video-resumen
+
+A continuación, un video explicativo del tema:
+
+[![Alt text](https://img.youtube.com/vi/8fg2zNF-uqA/0.jpg)](https://www.youtube.com/watch?v=8fg2zNF-uqA)
+
 </div>
 
