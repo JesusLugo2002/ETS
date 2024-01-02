@@ -41,4 +41,31 @@ Las características más destacables de la metodología SCRUM son:
 - **La auto organización**, porque Scrum está muy enfocado a que los equipos sean capaces de organizarse, de auto gestionarse, de saber llevar la carga de trabajo en todo momento, de que se tenga el control del tiempo, etc. Por todo eso, los equipos son los que se marcan sus ritmos y el desarrollo es progresivo, ya que se va avanzando a medida que va pasando el tiempo y el equipo va adquiriendo madurez y se procede a un valor incremental.
 - **La priorización**, debido a que existen prioridades y se establecen criterios para saber qué trabajos son los que lo más importante y son los primeros que hay que desarrollar. Scrum es una metodología muy abierta, flexible y que se adapta a las necesidades de los clientes en cada momento. Si aparece algo urgente, se le puede asignar una prioridad y el equipo puede ponerse a trabajar de forma inmediata.
 
+## ¿Qué es un Sprint?
+
+Un sprint es un período breve de tiempo fijo en el que un equipo de scrum trabaja para completar una cantidad de trabajo establecida. Los sprints se encuentran en el corazón de las metodologías scrum y ágil, y hacer bien los sprints ayudará a tu equipo ágil a lanzar mejor software con menos quebraderos de cabeza.
+Los sprints ayudan a los equipos a seguir el principio de la metodología ágil de "entregar software de trabajo con frecuencia", así como vivir el valor ágil de "dar respuesta a un cambio por encima del seguimiento de un plan". Los valores de transparencia, inspección y adaptación de la metodología scrum son complementarios a los ágiles y centrales al concepto de sprints.
+
+## ¿Qué es un Product Backlog?
+
+El backlog de un producto es una lista de trabajo ordenado por prioridades para el equipo de desarrollo que se obtiene de la hoja de ruta y sus requisitos. Los elementos más importantes se muestran al principio del backlog del producto para que el equipo sepa qué hay que entregar primero. El equipo de desarrollo no trabaja con el backlog al ritmo que dicta el propietario del producto, y este no presiona al equipo de desarrollo para que saque el trabajo adelante. En su lugar, el equipo de desarrollo saca trabajo del backlog del producto en la medida de sus capacidades, ya sea de forma continua (kanban) o por iteraciones (scrum).
+
+## ¿Qué es un Sprint Backlog?
+
+El Sprint Backlog es una lista ordenada de tareas del Product Backlog, agrupadas en PBI, e identificadas por el equipo Scrum, listas para desarrollarse durante el siguiente incremento del producto o siguiente Sprint. Además, el Sprint Backlog facilita la adaptabilidad, permitiendo que el equipo responda rápidamente a los cambios y priorice el trabajo más relevante para cumplir con las metas establecidas en cada iteración.
+El Sprint Backlog se crea durante el Sprint Planning, otro evento de Scrum.
+
+## ¿Qué es una Daily Scrum Meeting?
+
+La Daily Scrum es un tipo de reunión que existe en la metodología Scrum y que tiene bastante importancia en el desarrollo completo del proyecto.
+Es una reunión diaria y muy breve, no debe superar nunca los 15 minutos, que van a tener todos los miembros del equipo, que básicamente para lo que sirve es para saber cómo va cada miembro del equipo.
+Es habitual que esta reunión se alargue mucho o que en la misma se hablen temas que no corresponden a la misma, por lo que vamos a dejar claros algunos conceptos y a dar algunos consejos para seguir en estas reuniones.
+
+La Daily Scrum está pensada principalmente para responder a tres preguntas, es decir, cada miembro del equipo tiene que responder a tres preguntas, que serían las siguientes:
+- ¿Qué hice ayer?
+- ¿Qué es lo que voy a hacer hoy?
+- ¿He tenido algún tipo de problema durante el desarrollo o si tengo algún problema?
+  
+Esas son las tres cosas que debe decir cada miembro del equipo, por lo que para un equipo de Scrum, que debe tener entre 3 y 9 personas, en 15 minutos da tiempo más que suficiente para detallar simplemente esas cuestiones.
+
 </div>
