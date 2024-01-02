@@ -12,7 +12,7 @@
 6. ¿Qué es el 'Sprint Backlog'?
 7. ¿Qué es un 'Daily SCRUM Meeting'?
 8. ¿Cuántas personas componen un equipo?
-9. ¿Quién es el 'Producto Owner'?
+9. ¿Quién es el 'Product Owner'?
 10. ¿Quién es el 'SCRUM Owner'?
 11. ¿Qué es el 'Sprint Planning Meeting'?
 12. ¿Qué es el 'Sprint Review'?
@@ -67,5 +67,29 @@ La Daily Scrum está pensada principalmente para responder a tres preguntas, es 
 - ¿He tenido algún tipo de problema durante el desarrollo o si tengo algún problema?
   
 Esas son las tres cosas que debe decir cada miembro del equipo, por lo que para un equipo de Scrum, que debe tener entre 3 y 9 personas, en 15 minutos da tiempo más que suficiente para detallar simplemente esas cuestiones.
+
+## ¿Cuántas personas componen un equipo?
+
+Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master, el Product Owner y los Stakeholders. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que se conoce como Equipo Scrum
+
+### ¿Quién es el Product Owner?
+
+El Product Owner es la figura que representa la voz del cliente. Aunque paradójicamente no es un perfil implicado directamente en los proyectos, pues representa a acciones y clientes finales, es la persona que define y prioriza los objetivos del mismo. Se centra en la parte de negocio y el ROI del proyecto.
+
+Sus funciones principales son:
+- Optimizar y maximzar el valor del producto, a través de la gestión de su flujo de valor.
+- Gestionar un flujo de valor a través del *Product Backlog*, estructurándolo y detallándolo en todo momento.
+- Hacer de interlocutor entre los stakeholders y patrocinadores del proyecto, transmitiendo el valor sobre el producto en el que están invirtiendo.
+- Proporcionar feedback sobre los requerimientos y peticiones de los clientes finales.
+- Marcar el Sprint Goal de manera clara y acordada con el equipo de desarrollo, con el fin de incrementar el valor del producto.
+
+### ¿Quién es el Scrum Owner?
+
+El Scrum Owner es la persona que lidera el equipo, guiándolo para que cumpla las normas y procesos en la metodología scrum. Trabaja de la mano con el Product Owner para maximizar el ROI.
+
+Sus funciones principales son:
+- Gestionar el proceso Scrum, facilitando la ejecución del mismo y sus mecánicas.
+- Cohesionar al equipo y fomentar sus capacidades mediante el mentoring, el coaching y convocando reuniones periódicas. En definitiva, ser un buen líder.
+- Eliminar impedimentos que puedan afectar a la entrega del proyecto. Debe transmitir continuamente los beneficios de la metodología Scrum a la organización facilitando su implementación.
 
 </div>
