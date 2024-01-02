@@ -1,3 +1,5 @@
+<div align=justify>
+
 # Trabajo de investigación de SCRUM
 
 ## Contenido
@@ -31,5 +33,12 @@ Scrum es un marco de gestión de proyectos de metodología ágil que ayuda a los
 
 Aunque son los equipos de desarrollo de software los que utilizan con mayor frecuencia este tipo de scrum, sus principios y lecciones se pueden aplicar a todo tipo de trabajo en equipo. Esta es una de las razones por las que es tan popular. Aunque se considera a menudo un marco de gestión de proyectos ágil, scrum incluye un conjunto de reuniones, herramientas y funciones que, de forma coordinada, ayudan a los equipos a estructurar y gestionar su trabajo.
 
-### Características 
+### Características
 
+Las características más destacables de la metodología SCRUM son:
+
+- **La colaboración**, ya que es una de las mejores cosas que tiene Scrum es que se fomenta mucho la colaboración entre los miembros del equipo de desarrollo, entre el cliente y el equipo.
+- **La auto organización**, porque Scrum está muy enfocado a que los equipos sean capaces de organizarse, de auto gestionarse, de saber llevar la carga de trabajo en todo momento, de que se tenga el control del tiempo, etc. Por todo eso, los equipos son los que se marcan sus ritmos y el desarrollo es progresivo, ya que se va avanzando a medida que va pasando el tiempo y el equipo va adquiriendo madurez y se procede a un valor incremental.
+- **La priorización**, debido a que existen prioridades y se establecen criterios para saber qué trabajos son los que lo más importante y son los primeros que hay que desarrollar. Scrum es una metodología muy abierta, flexible y que se adapta a las necesidades de los clientes en cada momento. Si aparece algo urgente, se le puede asignar una prioridad y el equipo puede ponerse a trabajar de forma inmediata.
+
+</div>
