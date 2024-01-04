@@ -25,6 +25,12 @@ Dentro de las metodologías de desarrollo software podemos diferenciar entre met
 SCRUM es una de las metodologías de desarrollo que cuenta con un gran porcentaje de implantación en el sector empresarial. Por ello en esta práctica se desarrollará un trabajo de investigación sobre esta metodología.
 Con el objetivo de que se abarque la complejidad de esta metodología, se han diseñado unas preguntas que se deberán ser respondidas.
 
+<div align=center>
+
+![img](https://th.bing.com/th/id/R.bf1489b6ec179ec32492dea3fe09cae1?rik=cDC8q45HpCd%2fUw&pid=ImgRaw&r=0)
+
+</div>
+
 ## ¿Qué es SCRUM?
 
 Scrum es un marco de gestión de proyectos de metodología ágil que ayuda a los equipos a estructurar y gestionar el trabajo mediante un conjunto de valores, principios y prácticas. Al igual que un equipo de rugby (de donde proviene su nombre) cuando entrena para un gran partido, scrum anima a los equipos a aprender a través de las experiencias, a autoorganizarse mientras aborda un problema y a reflexionar sobre sus victorias y derrotas para mejorar continuamente. 
@@ -100,9 +106,9 @@ A continuación una tabla donde se resumen los roles que se encuentran en un equ
   
   |Rol|Importancia|
   |---|-----------|
-  |Scrum Owner|Debe ser un líder servicial que colabore con el funcionamiento y engranaje de todo el equipo. Es responsable de que todo fluya de armoniosamente aun cuando haya momentos de tensión; por ende, es vital que sea un experto en el manejo de Software Scrum y, a la vez, ha de ser alguien atento, despierto, que identifique los riesgos emergentes y se anticipe a ellos|
-  |Product Owner|El Product Owner se encarga de afinar las estrategias para la captación de potenciales clientes y selecciona los stakeholders más ideales para la empresa o que se adaptan mejor a la metodología Scrum. Una vez que el Product Owner tiene en su mano el proyecto o las exigencias del stakeholder, tiene que decidir cuáles son las principales tareas a cumplir en el proyecto y cuál es la visión del sprint|
-  |Equipo de desarrollo|El Equipo de Desarrollo generalmente está conformado por un grupo de 3 a 9 personas especializadas en funciones de desarrollo. El grupo se une para cumplir una tarea determinada, que es asignada por el Scrum Master|
+  |**Scrum Owner**|Debe ser un líder servicial que colabore con el funcionamiento y engranaje de todo el equipo. Es responsable de que todo fluya de armoniosamente aun cuando haya momentos de tensión; por ende, es vital que sea un experto en el manejo de Software Scrum y, a la vez, ha de ser alguien atento, despierto, que identifique los riesgos emergentes y se anticipe a ellos.|
+  |**Product Owner**|El Product Owner se encarga de afinar las estrategias para la captación de potenciales clientes y selecciona los stakeholders más ideales para la empresa o que se adaptan mejor a la metodología Scrum. Una vez que el Product Owner tiene en su mano el proyecto o las exigencias del stakeholder, tiene que decidir cuáles son las principales tareas a cumplir en el proyecto y cuál es la visión del sprint.|
+  |**Equipo de desarrollo**|El Equipo de Desarrollo generalmente está conformado por un grupo de 3 a 9 personas especializadas en funciones de desarrollo. El grupo se une para cumplir una tarea determinada, que es asignada por el Scrum Master.|
   
 </div>
 
