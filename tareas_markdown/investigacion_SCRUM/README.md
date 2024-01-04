@@ -16,7 +16,7 @@
 10. ¿Quién es el 'SCRUM Owner'?
 11. ¿Qué es el 'Sprint Planning Meeting'?
 12. ¿Qué es el 'Sprint Review'?
-13. ¿Qué es el 'Sprint Retrospective'
+13. ¿Qué es el 'Sprint Retrospective'?
 
 ## Introducción
 
@@ -70,7 +70,7 @@ Esas son las tres cosas que debe decir cada miembro del equipo, por lo que para 
 
 ## ¿Cuántas personas componen un equipo?
 
-Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master, el Product Owner y los Stakeholders. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que se conoce como Equipo Scrum
+Un equipo Scrum suele estar compuesto por grupos de trabajo de entre 3 a 9 miembros del equipo de desarrollo, más el Scrum Master, el Product Owner y los Stakeholders. Cada uno de estos roles tiene diferentes responsabilidades y debe de rendir cuentas de distinta manera, tanto entre ellos como para el resto de la organización. La suma de todos los roles es lo que se conoce como Equipo Scrum.
 
 ### ¿Quién es el Product Owner?
 
@@ -91,5 +91,28 @@ Sus funciones principales son:
 - Gestionar el proceso Scrum, facilitando la ejecución del mismo y sus mecánicas.
 - Cohesionar al equipo y fomentar sus capacidades mediante el mentoring, el coaching y convocando reuniones periódicas. En definitiva, ser un buen líder.
 - Eliminar impedimentos que puedan afectar a la entrega del proyecto. Debe transmitir continuamente los beneficios de la metodología Scrum a la organización facilitando su implementación.
+
+### Tabla-resumen
+
+A continuación una tabla donde se resumen los roles que se encuentran en un equipo Scrum y su función principal:
+
+<div align=center>
+  |Rol|Importancia|
+  |Scrum Owner|Debe ser un líder servicial que colabore con el funcionamiento y engranaje de todo el equipo. Es responsable de que todo fluya de armoniosamente aun cuando haya momentos de tensión; por ende, es vital que sea un experto en el manejo de Software Scrum y, a la vez, ha de ser alguien atento, despierto, que identifique los riesgos emergentes y se anticipe a ellos|
+  |Product Owner|El Product Owner se encarga de afinar las estrategias para la captación de potenciales clientes y selecciona los stakeholders más ideales para la empresa o que se adaptan mejor a la metodología Scrum. Una vez que el Product Owner tiene en su mano el proyecto o las exigencias del stakeholder, tiene que decidir cuáles son las principales tareas a cumplir en el proyecto y cuál es la visión del sprint|
+  |Equipo de desarrollo|El Equipo de Desarrollo generalmente está conformado por un grupo de 3 a 9 personas especializadas en funciones de desarrollo. El grupo se une para cumplir una tarea determinada, que es asignada por el Scrum Master|
+</div>
+
+## ¿Qué es el Sprint Planning Meeting?
+
+Es una reunión que se realiza al comienzo de cada Sprint donde participa el equipo Scrum al completo. En esta reunión se inspecciona el Backlog del Producto (Product Backlog) y el equipo de desarrollo selecciona los Product Backlog Items en los que va a trabajar durante el siguiente Sprint. El Sprint Planning Meeting es una reunión planificada con el propósito de definir los objetivos y prioridades de un sprint. Esta reunión es una parte importante de cualquier ciclo de trabajo ágil, y es esencial para el éxito del equipo.
+
+## ¿Qué es el Sprint Review?
+
+El Sprint Review es una reunión que se celebra al final de un sprint en Scrum, con el propósito de evaluar los resultados que obtuvo el equipo Scrum. Durante esta ceremonia se revisa el Incremento, es decir, lo que se realizó durante el Sprint, y se analizan los cambios que tuvo el Product Backlog2. Es una oportunidad para recibir feedback sobre el desarrollo del producto4.
+
+## ¿Qué es el 'Sprint Retrospective'?
+
+El sprint retrospective meeting (retrospectiva) es el último evento en un Sprint en Scrum. Es una oportunidad para el equipo de inspeccionarse a sí mismo, y crear un plan de mejora que se pondrá en marcha inmediatamente, en el siguiente Sprint.
 
 </div>
