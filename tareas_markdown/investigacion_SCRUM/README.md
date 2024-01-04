@@ -97,10 +97,12 @@ Sus funciones principales son:
 A continuación una tabla donde se resumen los roles que se encuentran en un equipo Scrum y su función principal:
 
 <div align=center>
+  
   |Rol|Importancia|
   |Scrum Owner|Debe ser un líder servicial que colabore con el funcionamiento y engranaje de todo el equipo. Es responsable de que todo fluya de armoniosamente aun cuando haya momentos de tensión; por ende, es vital que sea un experto en el manejo de Software Scrum y, a la vez, ha de ser alguien atento, despierto, que identifique los riesgos emergentes y se anticipe a ellos|
   |Product Owner|El Product Owner se encarga de afinar las estrategias para la captación de potenciales clientes y selecciona los stakeholders más ideales para la empresa o que se adaptan mejor a la metodología Scrum. Una vez que el Product Owner tiene en su mano el proyecto o las exigencias del stakeholder, tiene que decidir cuáles son las principales tareas a cumplir en el proyecto y cuál es la visión del sprint|
   |Equipo de desarrollo|El Equipo de Desarrollo generalmente está conformado por un grupo de 3 a 9 personas especializadas en funciones de desarrollo. El grupo se une para cumplir una tarea determinada, que es asignada por el Scrum Master|
+  
 </div>
 
 ## ¿Qué es el Sprint Planning Meeting?
