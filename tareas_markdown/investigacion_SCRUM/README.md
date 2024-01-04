@@ -56,6 +56,12 @@ Los sprints ayudan a los equipos a seguir el principio de la metodología ágil 
 
 El backlog de un producto es una lista de trabajo ordenado por prioridades para el equipo de desarrollo que se obtiene de la hoja de ruta y sus requisitos. Los elementos más importantes se muestran al principio del backlog del producto para que el equipo sepa qué hay que entregar primero. El equipo de desarrollo no trabaja con el backlog al ritmo que dicta el propietario del producto, y este no presiona al equipo de desarrollo para que saque el trabajo adelante. En su lugar, el equipo de desarrollo saca trabajo del backlog del producto en la medida de sus capacidades, ya sea de forma continua (kanban) o por iteraciones (scrum).
 
+<div align=center>
+
+![img](https://th.bing.com/th/id/R.022b6e5f38bc47db96f40af4a4424260?rik=vowmw2MEHP9T%2fQ&pid=ImgRaw&r=0)
+
+</div>
+
 ## ¿Qué es un Sprint Backlog?
 
 El Sprint Backlog es una lista ordenada de tareas del Product Backlog, agrupadas en PBI, e identificadas por el equipo Scrum, listas para desarrollarse durante el siguiente incremento del producto o siguiente Sprint. Además, el Sprint Backlog facilita la adaptabilidad, permitiendo que el equipo responda rápidamente a los cambios y priorice el trabajo más relevante para cumplir con las metas establecidas en cada iteración.
@@ -123,5 +129,7 @@ El Sprint Review es una reunión que se celebra al final de un sprint en Scrum, 
 ## ¿Qué es el 'Sprint Retrospective'?
 
 El sprint retrospective meeting (retrospectiva) es el último evento en un Sprint en Scrum. Es una oportunidad para el equipo de inspeccionarse a sí mismo, y crear un plan de mejora que se pondrá en marcha inmediatamente, en el siguiente Sprint.
+
+![img](https://hygger.io/guides/wp-content/uploads/2021/02/sprint.jpg)
 
 </div>
