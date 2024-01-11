@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![img](img/diagrama.png)
+![img](https://raw.githubusercontent.com/JesusLugo2002/ETS/main/diagramas_casos_de_uso/img/diagrama.png?token=GHSAT0AAAAAACMXBB4IILN5AVVE6JD4IAAIZNAAPCQ)
 
 </div>
 
@@ -161,3 +161,7 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 |
+
+  -------
+
+  > **Nota**: En la actividad no se encuentra más información salvo la imagen mostrada al inicio de este documento.
