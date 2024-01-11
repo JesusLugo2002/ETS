@@ -93,65 +93,65 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
 
 |  Caso de Uso	CU | Geoposicionamiento  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Fuentes  | No hay información |
+  | Actor  |  Usuario |
   | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Flujo básico | No hay información |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  |  Notas |  No hay información |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 11 de Enero, 2024 |
 
 |  Caso de Uso	CU | Definir destino  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Fuentes  | No hay información  |
+  | Actor  |  Usuario |
   | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Flujo básico | No hay información |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  |  Notas |  No hay información |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 11 de Enero, 2024 |
 
 |  Caso de Uso	CU | Sugerir destinos interesantes  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Fuentes  | No hay información  |
+  | Actor  |  Usuario |
   | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Flujo básico | No hay información |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ | 
+  |  Notas |  No hay información |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 11 de Enero, 2024 | 
 
 |  Caso de Uso	CU | Mostrar puntos de interés en la ruta  |
   |---|---|
   | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Flujo básico | No hay información |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
   |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 11 de Enero, 2024 |
 
 |  Caso de Uso	CU | Modificar ruta  |
   |---|---|
   | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
+  | Flujo básico | No hay información |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
   |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 11 de Enero, 2024 |
