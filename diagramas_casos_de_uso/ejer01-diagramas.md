@@ -1,5 +1,11 @@
 # Ejercicio de tablas sobre un diagrama de casos de uso
 
+<div align=center>
+
+![img](img/diagrama.png)
+
+</div>
+
 Tomando en cuenta el diagrama visto en la clase, las tablas que definen los actores y los casos de usos son:
 
 ## Actores
@@ -86,7 +92,7 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   | Flujo básico | No hay información  |
   | Pre-condiciones | Login  |  
   | Post-condiciones  | No hay información   |  
-  |  Requerimientos | No hay información   |
+  |  Requerimientos | Información dada por el 'Login' |
   |  Notas |  No hay información  |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 9 de Enero, 2024 |
@@ -95,11 +101,11 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   |---|---|
   | Fuentes  | No hay información |
   | Actor  |  Usuario |
-  | Descripción | _Descripción del caso de uso_  |
+  | Descripción | Estimación de la posición geográfica del cliente/destino. |
   | Flujo básico | No hay información |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Pre-condiciones | No hay información  |  
+  | Post-condiciones  | Debe estar relacionado con un sistema externo de geoposicionamiento.  |  
+  |  Requerimientos | No hay información  |
   |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 |
@@ -108,11 +114,11 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   |---|---|
   | Fuentes  | No hay información  |
   | Actor  |  Usuario |
-  | Descripción | _Descripción del caso de uso_  |
+  | Descripción | Función de la aplicación para definir el destino deseado del cliente  |
   | Flujo básico | No hay información |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Pre-condiciones | No hay información  |  
+  | Post-condiciones  | No hay información  |  
+  |  Requerimientos | No hay información  |
   |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 |
@@ -121,37 +127,37 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   |---|---|
   | Fuentes  | No hay información  |
   | Actor  |  Usuario |
-  | Descripción | _Descripción del caso de uso_  |
+  | Descripción | Mostrar al cliente sugerencias de destinos interesantes  |
   | Flujo básico | No hay información |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Pre-condiciones | El usuario debe pulsar un botón _destinos interesantes_  |  
+  | Post-condiciones  | No hay información  |  
+  |  Requerimientos | No hay información  |
   |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 | 
 
 |  Caso de Uso	CU | Mostrar puntos de interés en la ruta  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
+  | Fuentes  | No hay información  |
+  | Actor  |  Usuario |
+  | Descripción | Mostrar al usuario puntos de interés en la ruta marcada al definir un destino.  |
   | Flujo básico | No hay información |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
+  | Pre-condiciones | El usuario debe pulsar un botón _ptos. de interés en ruta_ |   
+  | Post-condiciones  | No hay información  |  
+  |  Requerimientos | No hay información  |
+  |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 |
 
 |  Caso de Uso	CU | Modificar ruta  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
+  | Fuentes  | No hay información  |
+  | Actor  |  Usuario|
+  | Descripción | Modificación de la ruta elegida por el usuario |
   | Flujo básico | No hay información |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
+  | Pre-condiciones | No hay información  |  
+  | Post-condiciones  | No hay información  |  
+  |  Requerimientos | No hay información  |
+  |  Notas |  No hay información |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 11 de Enero, 2024 |
