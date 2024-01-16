@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![img](https://raw.githubusercontent.com/JesusLugo2002/ETS/main/diagramas_casos_de_uso/app-transport/img/diagrama.png?token=GHSAT0AAAAAACM5ZZCNELRE7A7J64XXV6TGZNGV4AA)
+![img](https://raw.githubusercontent.com/JesusLugo2002/ETS/main/diagramas_casos_de_uso/app-transport/img/diagrama.png?token=GHSAT0AAAAAACM5ZZCMO5JAR5XZCI224FUOZNGYMRA)
 
 </div>
 
