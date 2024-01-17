@@ -1,6 +1,9 @@
 # Diagrama de casos de uso - Biblioteca
+<div align=center>
 
 ![img](diagrama-biblioteca.drawio.png)
+
+</div>
 
 ## Especificación de los actores
 
