@@ -40,18 +40,18 @@
   | Descripción | Comprar el producto buscado en el catálogo.  |
   | Flujo básico | Cliente solicita el producto -> Lo paga con el método configurado -> Recibe el producto via correo o es llamado a buscarlo presencialmente.|
   | Pre-condiciones | Que el producto esté disponible, que haya dinero suficiente,  |  
-  | Post-condiciones  | El cliente tendrá el libro por un tiempo determinado.  |  
-  |  Requerimientos | El libro buscado  |
+  | Post-condiciones  | El cliente tendrá su producto. |  
+  |  Requerimientos | Dinero necesario  |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 16 de Enero, 2024 |
 
   |  Caso de Uso	CU | Gestionar inventario  |
   |---|---|
-  | Actor  |  cliente |
-  | Descripción | El cliente, antes, durante o después del fin de tiempo determinado, devuelve el libro a la biblioteca.  |
-  | Flujo básico | El cliente llega a la biblioteca -> devuelve el libro a manos de bibliotecario o se deja en un sistema electrónico de recogida. |
-  | Pre-condiciones | El cliente debe tener el libro.  |  
-  | Post-condiciones  | La biblioteca volverá a tener en su inventario el libro devuelto. |  
-  |  Requerimientos | El libro a devolver  |
+  | Actor  |  Administrador |
+  | Descripción | Añadir, contabilizar y registrar productos en el inventario de la tienda  |
+  | Flujo básico | El administrador lleva un registro de la entrada/salida de un producto -> Guarda el registro en el sistema de gestión. |
+  | Pre-condiciones | No hay información  |  
+  | Post-condiciones  | No hay información |  
+  |  Requerimientos | No hay información  |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 16 de Enero, 2024 |
