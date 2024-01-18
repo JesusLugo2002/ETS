@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![img](/diagrama-red-social.drawio.png)
+![img](diagrama-red-social.drawio.png)
 
 </div>
 
