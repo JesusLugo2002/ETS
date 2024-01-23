@@ -48,7 +48,7 @@
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 18 de Enero, 2024 |
 
-   |  Caso de Uso	CU | Eliminar publicación  |
+   |  Caso de Uso	CU-03 | Eliminar publicación  |
   |---|---|
   | Actor  |  Cliente y Administrador |
   | Descripción | La opción permite al usuario/administrador eliminar publicaciones propias de su perfil o de perfiles ajenos siempre cuando su autoría sea de sí mismos.  |
