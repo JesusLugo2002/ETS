@@ -23,103 +23,91 @@
 
 ### Actor 'Cliente bancario'
 
-|  Actor | XXX (Nombre del Actor) |
+|  Actor | Cliente bancario |
 |---|---|
-| Descripción  | _Breve descripción del actor_  |
+| Descripción  | Aquella persona que contrata un producto o servicio con una entidad financiera.  |
 | Características  | _Características que describen al actor_ |
-| Relaciones | _Relaciones que tiene con otros actores. Básicamente cuando realiza las mismas acciones que otro actor._  |
-| Referencias | _Que casos de uso realiza_ |   
-|  Notas |  _Notas adicionales_ |
-| Autor  | _Quien desarrolla la especificación del actor_ |
-|Fecha | _Fecha de la especificación_ |
+| Relaciones | En el diagrama de casos de uso actual no se encuentra ninguna relación directa con otro actor. |
+| Referencias | CU-01, CU-02, CU-03, CU-04 |   
+| Autor  | Jesús Daniel Lugo López |
+|Fecha | 25 de Enero, 2024 |
 
 ### Actor 'Administrador'
 
-|  Actor cuqui| XXX (Nombre del Actor) |
+|  Actor cuqui| Administrador |
 |---|---|
 | Descripción  | _Breve descripción del actor_  |
 | Características  | _Características que describen al actor_ |
-| Relaciones | _Relaciones que tiene con otros actores. Básicamente cuando realiza las mismas acciones que otro actor._  |
-| Referencias | _Que casos de uso realiza_ |   
-|  Notas |  _Notas adicionales_ |
-| Autor  | _Quien desarrolla la especificación del actor_ |
-|Fecha | _Fecha de la especificación_ | 
+| Relaciones | En el diagrama de casos de uso actual no se encuentra ninguna relación directa con otro actor. |
+| Referencias | CU-05 |   
+| Autor  | Jesús Daniel Lugo López |
+|Fecha | 25 de Enero, 2024 | 
 
 ## Especificación de casos de uso
 
 ### Ingresar dinero
 
-  |  Caso de Uso	CU | XXX  |
+  |  Caso de Uso	CU-01 | Ingresar dinero  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 25 de Enero, 2024 |
 
 ### Hacer transferencia
 
-  |  Caso de Uso	CU | XXX  |
+  |  Caso de Uso	CU-02 | Hacer transferencia  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 25 de Enero, 2024 |
 
 ### Poner dinero al movil
 
-  |  Caso de Uso	CU | XXX  |
+  |  Caso de Uso	CU-03 | Poner dinero al movil  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 25 de Enero, 2024 |
 
 ### Login
 
-  |  Caso de Uso	CU | XXX  |
+  |  Caso de Uso	CU-04 | Login  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 25 de Enero, 2024 |
 
 ### Registrar movimiento
 
-  |  Caso de Uso	CU | XXX  |
+  |  Caso de Uso	CU-05 | Registrar movimiento  |
   |---|---|
-  | Fuentes  | _Documento que sustenta el caso de uso_  |
   | Actor  |  _Actores que participan en el caso de uso_ |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
-  |  Notas |  _Notas adicionales_ |
-  | Autor  | _Quien desarrolla la especificación del actor_ |
-  |Fecha | _Fecha de la especificación_ |
+  | Autor  | Jesús Daniel Lugo López |
+  |Fecha | 25 de Enero, 2024 |
 
 </div>
