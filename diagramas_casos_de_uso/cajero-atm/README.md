@@ -26,7 +26,6 @@
 |  Actor | Cliente bancario |
 |---|---|
 | Descripción  | Aquella persona que contrata un producto o servicio con una entidad financiera.  |
-| Características  | _Características que describen al actor_ |
 | Relaciones | En el diagrama de casos de uso actual no se encuentra ninguna relación directa con otro actor. |
 | Referencias | CU-01, CU-02, CU-03, CU-04 |   
 | Autor  | Jesús Daniel Lugo López |
@@ -34,10 +33,9 @@
 
 ### Actor 'Administrador'
 
-|  Actor cuqui| Administrador |
+|  Actor | Administrador |
 |---|---|
-| Descripción  | _Breve descripción del actor_  |
-| Características  | _Características que describen al actor_ |
+| Descripción  | Persona que registra las entradas y salidas monetarias del sistema del cajero automático.  |
 | Relaciones | En el diagrama de casos de uso actual no se encuentra ninguna relación directa con otro actor. |
 | Referencias | CU-05 |   
 | Autor  | Jesús Daniel Lugo López |
@@ -49,12 +47,12 @@
 
   |  Caso de Uso	CU-01 | Ingresar dinero  |
   |---|---|
-  | Actor  |  _Actores que participan en el caso de uso_ |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Actor  |  Cliente bancario |
+  | Descripción | El cliente puede depositar dinero en su cuenta bancaria a través del cajero automático. |
+  | Flujo básico | El cliente inicia sesión -> Inserta el dinero en su cuenta bancaria a través del sistema si la cantidad está disponible. |
+  | Pre-condiciones | CU-04 'Login'  |  
+  | Post-condiciones  | Indicar las opciones de hacer transferencias, poner dinero al movil o retirar dinero.  |  
+  |  Requerimientos | Dinero en efectivo |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 25 de Enero, 2024 |
 
@@ -62,7 +60,7 @@
 
   |  Caso de Uso	CU-02 | Hacer transferencia  |
   |---|---|
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Actor  |  Cliente bancario |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
@@ -75,7 +73,7 @@
 
   |  Caso de Uso	CU-03 | Poner dinero al movil  |
   |---|---|
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Actor  |  Cliente bancario |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
@@ -88,7 +86,7 @@
 
   |  Caso de Uso	CU-04 | Login  |
   |---|---|
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Actor  |  Cliente bancario |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
@@ -101,7 +99,7 @@
 
   |  Caso de Uso	CU-05 | Registrar movimiento  |
   |---|---|
-  | Actor  |  _Actores que participan en el caso de uso_ |
+  | Actor  |  Administrador |
   | Descripción | _Descripción del caso de uso_  |
   | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
   | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
