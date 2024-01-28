@@ -27,18 +27,20 @@
   |---|---|
   | Actor  |  Cliente |
   | Descripción | El cliente podrá ver el catálogo de productos disponibles en la tienda. |
-  | Flujo básico | Cliente introduce el nombre del producto que busca -> el sistema devuelve su disponibilidad -> le presentará la opción de solicitarlo -> en caso de que sí quiera pedirlo, se le enviará la solicitud al administrador un registro. |
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Cliente introduce el nombre del producto para comprobar su disponibilidad.</td></tr><tr><td>2</td><td>Se le presentará al cliente la opción de solicitarlo.</td></tr><tr><td>3</td><td>Se envía la solicitud al caso de uso de compra.</td></tr></table> |
+  | Flujo alternativo | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si no está disponible...</td></tr><tr><td></td><td>A.1. Se cierra el caso de uso.</td></tr><tr><td>2</td><td>Si no se solicita...</td></tr><tr><td></td><td>A.1. Se cierra el caso de uso.</td></tr></table>|
   | Pre-condiciones | Nombre del producto  |  
   | Post-condiciones  | Devolver un mensaje que indique la disponibilidad del producto y la opción de compra  |  
   |  Requerimientos | N/A |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 16 de Enero, 2024 |
-  
+
   |  Caso de Uso	CU | Realizar compra  |
   |---|---|
   | Actor  |  Cliente |
   | Descripción | Comprar el producto buscado en el catálogo.  |
-  | Flujo básico | Cliente solicita el producto -> Lo paga con el método configurado -> Recibe el producto via correo o es llamado a buscarlo presencialmente.|
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Cliente solicita el producto.</td></tr><tr><td>2</td><td>Lo paga con el método configurado.</td></tr><tr><td>3</td><td>Recibe el producto via correo o es llamado a buscarlo presencialmente.</td></tr></table> |
+  | Flujo alternativo | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>2</td><td>Si no tiene el dinero suficiente...</td></tr><tr><td></td><td>Se muestra un mensaje de 'Dinero insuficiente' y se cierra el caso de uso.</td></tr></table>
   | Pre-condiciones | Que el producto esté disponible, que haya dinero suficiente,  |  
   | Post-condiciones  | El cliente tendrá su producto. |  
   |  Requerimientos | Dinero necesario  |
@@ -49,7 +51,8 @@
   |---|---|
   | Actor  |  Administrador |
   | Descripción | Añadir, contabilizar y registrar productos en el inventario de la tienda  |
-  | Flujo básico | El administrador lleva un registro de la entrada/salida de un producto -> Guarda el registro en el sistema de gestión. |
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El administrador lleva un registro de la entrada/salida de un producto.</td></tr><tr><td>2</td><td>Guarda el registro en el sistema de gestión.</td></tr></table> |
+  | Flujo alternativo | N/A |
   | Pre-condiciones | No hay información  |  
   | Post-condiciones  | No hay información |  
   |  Requerimientos | No hay información  |
