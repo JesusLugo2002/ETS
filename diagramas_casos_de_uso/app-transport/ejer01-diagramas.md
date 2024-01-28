@@ -27,10 +27,12 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   | Fuentes  | *App Transport* |
   | Actor  |  Administrador |
   | Descripción | Definición del medio de transporte |
-  | Flujo básico | Toma de entrada la elección del administrador -> Define el medio de transporte según la entrada. |
+  | Flujo básico |  <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Toma de entrada la elección del administrador.</td></tr><tr><td>2</td><td>Define el medio de transporte según la entrada.</td></tr></table> |
+  | Flujo alternativo | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si el usuario no elige ninguna opción...</td></tr><tr><td></td><td>1. Se finaliza el proceso de la aplicación.</td></tr></table>
   | Pre-condiciones | *N/A* |  
   | Post-condiciones  | El medio de transporte estará definido en el sistema.  |  
   |  Requerimientos | *N/A* |
   |  Notas |  *N/A* |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 9 de Enero, 2024 |
+
