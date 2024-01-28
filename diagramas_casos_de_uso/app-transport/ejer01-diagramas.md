@@ -36,3 +36,4 @@ Tomando en cuenta el diagrama visto en la clase, las tablas que definen los acto
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 9 de Enero, 2024 |
 
+
