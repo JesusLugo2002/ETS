@@ -71,12 +71,7 @@
   | Actor  |  Cliente bancario |
   | Descripción | El cliente realiza una transferencia a otra cuenta bancaria. |
   | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El cliente ingresa el identificador de la otra cuenta bancaria.</td></tr><tr><td>2</td><td>El cliente ingresa la cantidad de dinero a transferir.</td></tr></table> |
-  | Pre-condiciones | <table>
-  <tr><th>Paso</th><th>Acción</th></tr>
-  <tr><td>1</td><td>Si el identificador no existe/está mal escrito...</td></tr>
-  <tr><td>2</td><td>Paranguatutirimicuaro</td></tr>
-  <tr><td>3</td><td>Paranguatutirimicuaro</td></tr>
-</table> |  
+  | Pre-condiciones | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si el identificador no existe/está mal escrito...</td></tr><tr><td></td><td>A.1. Se cierra el caso de uso.</td></tr></table> |  
   | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
   |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
   | Autor  | Jesús Daniel Lugo López |
