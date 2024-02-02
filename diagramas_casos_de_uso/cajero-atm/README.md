@@ -19,13 +19,6 @@
     - [Login](#login)
     - [Registrar movimiento](#registrar-movimiento)
 
-<table>
-  <tr><th>Paso</th><th>Acción</th></tr>
-  <tr><td>1</td><td>Paranguatutirimicuaro</td></tr>
-  <tr><td>2</td><td>Paranguatutirimicuaro</td></tr>
-  <tr><td>3</td><td>Paranguatutirimicuaro</td></tr>
-</table>
-
 ## Especificación de actores
 
 ### Actor 'Cliente bancario'
@@ -71,9 +64,10 @@
   | Actor  |  Cliente bancario |
   | Descripción | El cliente realiza una transferencia a otra cuenta bancaria. |
   | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El cliente ingresa el identificador de la otra cuenta bancaria.</td></tr><tr><td>2</td><td>El cliente ingresa la cantidad de dinero a transferir.</td></tr></table> |
-  | Pre-condiciones | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si el identificador no existe/está mal escrito...</td></tr><tr><td></td><td>A.1. Se cierra el caso de uso.</td></tr></table> |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Flujo alternativo | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si el identificador no existe/está mal escrito...</td></tr><tr><td></td><td>A.1. Se cierra el caso de uso.</td></tr></table> |  
+  |Pre-condiciones | El cliente debe haberse autenticado previamente. |
+  | Post-condiciones  | El dinero se es transferido a la otra cuenta bancaria. |  
+  |  Requerimientos | Dinero suficiente a la cantidad correspondida. |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 25 de Enero, 2024 |
 
@@ -82,11 +76,12 @@
   |  Caso de Uso	CU-03 | Poner dinero al movil  |
   |---|---|
   | Actor  |  Cliente bancario |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Descripción | El cliente puede transferir directamente al servicio de telefonía para recargar datos en su movil. |
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El cliente elige la empresa de telefonía.</td></tr><tr><td>2</td><td>Ingresa el número teléfonico</td></tr><tr><td>3</td><td>Elige entre los planes de datos disponibles</td></tr><tr><td>4</td><td>Confirma la elección y efectua la transferencia.</td></tr></table> |
+  |Flujo alternativo|N/A|
+  | Pre-condiciones | El cliente debe haberse autenticado y configurado el número teléfonico y/o empresa de telefonía en su cuenta bancaria.  |  
+  | Post-condiciones  | Se recarga según un plan de datos/saldo el télefono movil.  |  
+  |  Requerimientos | Dinero necesario y empresa de telefonía configurada.  |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 25 de Enero, 2024 |
 
@@ -95,11 +90,12 @@
   |  Caso de Uso	CU-04 | Login  |
   |---|---|
   | Actor  |  Cliente bancario |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Descripción | El cliente debe ser autenticado en la cuenta bancaria con su contraseña e identificación  |
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El cliente ingresa la opción de identificación (Número telefónico, DNI/NIE/NIF...)</td></tr><tr><td>2</td><td>Ingresa la contraseña</td></tr></table> |
+  | Flujo alternativo | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>En caso de que la identificación no esté registrada...</td></tr><tr><td></td><td>A.1 Se cierra el caso de uso.</td></tr><tr><td>2</td><td>En caso de que la contraseña ingresada sea incorrecta...</td></tr><tr><td></td><td>A.1 Se cierra el caso de uso.</td></tr></table>|
+  | Pre-condiciones | El cliente debe estar registrado con una cuenta bancaria. |  
+  | Post-condiciones  | El cliente ingresa al menú de opciones disponibles para realizar en el cajero. |  
+  |  Requerimientos | N/A |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 25 de Enero, 2024 |
 
@@ -108,11 +104,12 @@
   |  Caso de Uso	CU-05 | Registrar movimiento  |
   |---|---|
   | Actor  |  Administrador |
-  | Descripción | _Descripción del caso de uso_  |
-  | Flujo básico | _Descripción paso a paso de la ejecución. (1->2->3.)_ |
-  | Pre-condiciones | _Que debe ocurrir con anterioridad_  |  
-  | Post-condiciones  | _Que debe ocurrir con posterioridad_  |  
-  |  Requerimientos | _Que debe de exister para que el caso de uso se ejecute. Ej: Tarjeta de crédito_  |
+  | Descripción | El administrador genera un registro de entradas y salidas de dinero del cajero automático. |
+  | Flujo básico | <table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>El administrador realiza la autentificación en el sistema.</td></tr><tr><td>2</td><td>Elige la opción de registrar movimiento.</td></tr><tr><td>3</td><td>Genera un fichero donde se hayan los movimientos del cajero automático.</td></tr></table> |
+  |Flujo alternativo|<table><tr><th>Paso</th><th>Acción</th></tr><tr><td>1</td><td>Si no es autentificado...</td></tr><tr><td></td><td>A.1 Se cierra el caso de uso.</td></tr></table>|
+  | Pre-condiciones | El administrador debe tener el acceso necesario para realizar los registros.  |  
+  | Post-condiciones  | Se genera un archivo con las entradas/salidas del cajero automático.  |  
+  |  Requerimientos | N/A  |
   | Autor  | Jesús Daniel Lugo López |
   |Fecha | 25 de Enero, 2024 |
 
