@@ -2,6 +2,6 @@
 
 <div align=center>
 
-![img](/diagrama-secuencias-cajero-automatico.drawio.png)
+![img](./diagrama-secuencias-cajero-automatico.drawio.png)
 
 </div>
