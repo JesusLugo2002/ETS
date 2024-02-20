@@ -2,6 +2,6 @@
 
 <div align=center>
 
-![img](Diagrama-secuencia-reserva-vuelos.drawio.png)
+![img](./Diagrama-secuencia-reserva-vuelos.drawio.png)
 
 </div>
