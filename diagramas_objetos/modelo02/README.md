@@ -1,4 +1,7 @@
 # Diagrama de objetos - Modelo 02
 
-3 clientes
-2 pedidos
+<div align=center>
+
+![img](./diagrama-objetos-modelo02.drawio.png)
+
+</div>
